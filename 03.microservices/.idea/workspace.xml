@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d36cd45d-d210-475d-a855-3fa81bb5bd58" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.restful-web-services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02.restful-web-services/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.restful-web-services/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../02.restful-web-services/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/filtering/FilteringController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/filtering/FilteringController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/filtering/SomeBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/filtering/SomeBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/UserNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/UserNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/UserResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/UserResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/versioning/PersonVersioningController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02.restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/versioning/PersonVersioningController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.restful-web-services/src/main/resources/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../02.restful-web-services/src/main/resources/messages.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29Ez6NPcpAt8HFkM0RVSgGQgJpW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d36cd45d-d210-475d-a855-3fa81bb5bd58" name="Changes" comment="" />
+      <created>1652692856488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652692856488</updated>
+      <workItem from="1652692857916" duration="1758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
