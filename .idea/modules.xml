@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/04.my-microservices/limits-service/limits-service.iml" filepath="$PROJECT_DIR$/04.my-microservices/limits-service/limits-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.my-microservices/spring-cloud-config-sever/spring-cloud-config-sever.iml" filepath="$PROJECT_DIR$/04.my-microservices/spring-cloud-config-sever/spring-cloud-config-sever.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-microservices.iml" filepath="$PROJECT_DIR$/.idea/spring-microservices.iml" />
     </modules>
   </component>

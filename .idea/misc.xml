@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/04.my-microservices/limits-service/pom.xml" />
+        <option value="$PROJECT_DIR$/04.my-microservices/spring-cloud-config-sever/pom.xml" />
       </list>
     </option>
   </component>
